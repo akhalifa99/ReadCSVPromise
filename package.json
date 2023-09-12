@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  },
+  "dependencies": {
+    "csv": "^6.3.3",
+    "csv-parse": "^5.5.0",
+    "csv-parser": "^3.0.0",
+    "stream-transform": "^3.2.8"
+  },
+  
+  
+    "compilerOptions": {
+      "module": "none"
+    }
+  
+}
